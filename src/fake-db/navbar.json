@@ -1,0 +1,177 @@
+{
+  "data": [
+    {
+      "title": "Product",
+      "has_sections": false,
+      "children": [
+        {
+          "title": "Home",
+          "desc": "Docs, projects, & wikis",
+          "is_button": false
+        },
+        {
+          "title": "Template gallery",
+          "desc": "Setups to get you started",
+          "is_button": false
+        },
+        {
+          "title": "Customer stories",
+          "desc": "See how teams use Notion",
+          "is_button": false
+        },
+        {
+          "title": "Integrations",
+          "desc": "Connect your tools to Notion",
+          "is_button": false
+        },
+        {
+          "title": "Download Notion",
+          "desc": "Mac, Windows, iOS, & Android",
+          "is_button": true
+        }
+      ]
+    },
+    {
+      "title": "Download",
+      "has_sections": false,
+      "children": [
+        {
+          "title": "iOS & Android",
+          "desc": "",
+          "is_button": false
+        },
+        {
+          "title": "Mac & Windows",
+          "desc": "",
+          "is_button": false
+        },
+        {
+          "title": "Web Clipper",
+          "desc": "",
+          "is_button": false
+        }
+      ]
+    },
+    {
+      "title": "Solutions",
+      "has_sections": true,
+      "children": [
+        {
+          "title": "BY TEAM SIZE",
+          "desc": "",
+          "children": [
+            {
+              "title": "Enterprise",
+              "desc": "Advanced features for your org",
+              "is_button": false
+            },
+            {
+              "title": "Small business",
+              "desc": "Run your team on one tool",
+              "is_button": false
+            },
+            {
+              "title": "Personal",
+              "desc": "Free for individuals",
+              "is_button": false
+            }
+          ]
+        },
+        {
+          "title": "BY TEAM FUNCTION",
+          "desc": "",
+          "children": [
+            {
+              "title": "Design",
+              "desc": "",
+              "is_button": false
+            },
+            {
+              "title": "Engineering",
+              "desc": "",
+              "is_button": false
+            },
+            {
+              "title": "Product",
+              "desc": "",
+              "is_button": false
+            },
+            {
+              "title": "Managers",
+              "desc": "",
+              "is_button": false
+            }
+          ]
+        },
+        {
+          "title": "NOTION FOR",
+          "desc": "",
+          "children": [
+            {
+              "title": "Startups",
+              "desc": "",
+              "is_button": false
+            },
+            {
+              "title": "Remote work",
+              "desc": "",
+              "is_button": false
+            },
+            {
+              "title": "Education",
+              "desc": "",
+              "is_button": false
+            },
+            {
+              "title": "Nonprofits",
+              "desc": "",
+              "is_button": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "has_sections": false,
+      "children": [
+        {
+          "title": "Blog",
+          "desc": "",
+          "is_button": false
+        },
+        {
+          "title": "Guides & tutorials",
+          "desc": "",
+          "is_button": false
+        },
+        {
+          "title": "Webinars",
+          "desc": "",
+          "is_button": false
+        },
+        {
+          "title": "Help center",
+          "desc": "",
+          "is_button": false
+        },
+        {
+          "title": "API docs",
+          "desc": "",
+          "is_button": false
+        },
+        {
+          "title": "Community",
+          "desc": "",
+          "is_button": false
+        }
+      ]
+    },
+    {
+      "title": "Pricing",
+      "has_sections": false,
+      "children": [
+      ]
+    }
+  ]
+}
