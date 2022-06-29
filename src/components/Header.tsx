@@ -33,21 +33,26 @@ const Header: React.FunctionComponent = () => {
                                     </p>
 
                                     <ul className="absolute w-56 p-2.5">
-                                       {/* {item.children.map(childitem => (
+                                        {item.children.map(childitem => (
                                             <li className="py-1">
-                                                {
-                                                    childitem.is_button ? (
+                                               {/*
+                                                childitem.is_button ? (
                                                         <button>hello world</button>
                                                     ) : (
                                                         <p className="font-semibold text-md text-black">
                                                             {childitem.title}
                                                         </p>
                                                     )
+                                               */} 
+                                               {
+                                                    <p className="font-semibold text-md text-black">
+                                                    {childitem.title}
+                                                    </p>
                                                 }
 
                                                 <p className="font-light text-gray-500 text-sm">{childitem.desc}</p>
                                             </li>
-                                        ))}*/}
+                                        ))}
                                     </ul>
 
                                 </li>
