@@ -24,8 +24,7 @@ const Footer = (props: Props) => {
             <ul>
             {item.children.map(ChildrenItems => (
            <li>
-            <a href="#" className=' hover:underline  text-zinc-500 decoration-red-600 hover:text-red-600
-'>{ChildrenItems.title}</a>
+            <a href="#" className=' hover:underline  text-zinc-500 decoration-red-600 hover:text-red-600'>{ChildrenItems.title}</a>
            </li>
 ))}
             </ul>
