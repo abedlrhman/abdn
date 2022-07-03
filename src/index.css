@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.megamenu-navbar-box-shadow {
+    -webkit-box-shadow: 1px 0px 25px -1px rgba(0,0,0,0.20); 
+box-shadow: 1px 0px 25px -1px rgba(0,0,0,0.20);
+}
