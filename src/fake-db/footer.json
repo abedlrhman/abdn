@@ -1,0 +1,209 @@
+{
+    "data": [
+      {
+        "title": "Product",
+        
+        "children": [
+          {
+            "title": "Overview"
+           
+          },
+          {
+            "title": "Pricing"
+            
+          },
+          {
+            "title": "Customer stories"
+          },
+          {
+            "title": "Integrations"
+          
+          },
+          {
+            "title": "Desktop apps"
+           
+          },
+          {
+            "title": "Mobile apps"
+           
+          },
+          {
+            "title": "Web Clipper"
+           
+          },
+          {
+            "title": "Security"
+           
+          },
+          {
+            "title": "Terms & privacy"
+           
+          }
+        ]
+      },
+      {
+        "title": "Notion for",
+        
+        "children": [
+          {
+            "title": "Enterprise"
+           
+          },
+          {
+            "title": "Small business"
+            
+          },
+          {
+            "title": "Personal use"
+          },
+          {
+            "title": "Remote work"
+          
+          },
+          {
+            "title": "Startups"
+           
+          },
+          {
+            "title": "Education"
+           
+          },
+          {
+            "title": "Engineering"
+           
+          },
+          {
+            "title": "Product"
+           
+          },
+          {
+            "title": "Design"
+           
+          },
+          {
+            "title": "Managers"
+           
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        
+        "children": [
+          {
+            "title": "Blog"
+           
+          },
+          {
+            "title": "Guides & tutorials"
+            
+          },
+          {
+            "title": "Help center"
+          },
+          {
+            "title": "Webinars"
+          
+          },
+          {
+            "title": "Template gallery"
+           
+          },
+          {
+            "title": "Community"
+           
+          },
+          {
+            "title": "What’s new"
+           
+          },
+          {
+            "title": "Find a consultant"
+           
+          },
+          {
+            "title": "API docs"
+           
+          },
+          {
+            "title": "Switch from Evernote"
+           
+          },
+          {
+            "title": "Switch from Confluence"
+           
+          }
+        ]
+      },
+      {
+        "title": "Templates",
+        
+        "children": [
+          {
+            "title": "Company home"
+           
+          },
+          {
+            "title": "Meeting notes"
+            
+          },
+          {
+            "title": "To-dos"
+          },
+          {
+            "title": "Weekly agenda"
+          
+          },
+          {
+            "title": "Roadmap"
+           
+          },
+          {
+            "title": "Design system"
+           
+          },
+          {
+            "title": "New hire onboarding"
+           
+          },
+          {
+            "title": "Product wiki"
+           
+          },
+          {
+            "title": "Content calendar"
+           
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        
+        "children": [
+          {
+            "title": "About us"
+           
+          },
+          {
+            "title": "Careers"
+            
+          },
+          {
+            "title": "Integrations"
+          },
+          {
+            "title": "Media kit"
+          
+          },
+          {
+            "title": "Contact support"
+           
+          },
+          {
+            "title": "Email us"
+           
+          }
+        ]
+      }
+    ]
+    }
