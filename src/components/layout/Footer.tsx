@@ -1,6 +1,6 @@
 import React, { Children } from 'react'
 import {SiNotion} from "react-icons/si";
-import footer from "../fake-db/footer.json"
+import footer from "../../fake-db/footer.json"
 type Props = {}
 
 const Footer = (props: Props) => {
